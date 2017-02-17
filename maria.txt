@@ -2,9 +2,10 @@
 <head>
    <title>
    cool website
+   </title>
+   </head>
 <body>
   <p>this is my website</P>
-  <img> scr="https://www.google.com/search?q=cut+crease&safe=strict&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXn_CeyI3SAhWCslQKHdG0C3EQ_AUICCgB&biw=1920&bih=925#imgrc=eCeUfw2fdWmVrM:">
+  <img> scr="download.jpg">
 </body>
-</head>
 </html>
